@@ -1,0 +1,15 @@
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.csproj.AssemblyReference.cache
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.AssemblyInfoInputs.cache
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.AssemblyInfo.cs
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.csproj.CoreCompileInputs.cache
+C:\Users\В\source\repos\Dz seminar 3\dz 21\bin\Debug\net6.0\dz 21.exe
+C:\Users\В\source\repos\Dz seminar 3\dz 21\bin\Debug\net6.0\dz 21.deps.json
+C:\Users\В\source\repos\Dz seminar 3\dz 21\bin\Debug\net6.0\dz 21.runtimeconfig.json
+C:\Users\В\source\repos\Dz seminar 3\dz 21\bin\Debug\net6.0\dz 21.dll
+C:\Users\В\source\repos\Dz seminar 3\dz 21\bin\Debug\net6.0\dz 21.pdb
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.dll
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\refint\dz 21.dll
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.pdb
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\dz 21.genruntimeconfig.cache
+C:\Users\В\source\repos\Dz seminar 3\dz 21\obj\Debug\net6.0\ref\dz 21.dll
